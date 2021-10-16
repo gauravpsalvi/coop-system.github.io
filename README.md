@@ -1,12 +1,4 @@
 # React-SpringBoot
-
-Video of the Running Application:
-```
-1.Setting up the application
-https://user-images.githubusercontent.com/32956051/112764578-02e43300-8fbe-11eb-9702-9f4aebebb3fe.mp4
-
-2. Output of the application
-https://user-images.githubusercontent.com/32956051/112765511-62dcd880-8fc2-11eb-95ed-20aece542cdb.mp4
 ```
 
 Co-Op system is basically a SpringBoot-React application. It's front-end is developed using React and Back-end is SpringBoot.
