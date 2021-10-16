@@ -17,12 +17,10 @@ The project should look like this: frontend folder should be started with Visual
 ![c1](https://user-images.githubusercontent.com/32956051/112727273-11a7e880-8edf-11eb-8b68-43dcafa974dc.PNG)
 
 Step 2: Start your Xampp and set up your database
+
 ![c2](https://user-images.githubusercontent.com/32956051/112727494-f7bad580-8edf-11eb-8ec3-b65951560769.PNG)
 
 Step 3: Setup your Database and it should look as follows:
-
-
-
 
 ![c3](https://user-images.githubusercontent.com/32956051/112727564-4c5e5080-8ee0-11eb-8a9e-25df15f028f4.PNG)
 
@@ -33,7 +31,6 @@ and use the terminal inside visual studio to use the following command
 -npm i axios, cors, react, react-dom, react-router-dom, react-scripts, react-validation, validator, web-vitals
 
 Follow the following steps to get an idea about how it works
-
 
 1.
 ![c4](https://user-images.githubusercontent.com/32956051/112728645-841bc700-8ee5-11eb-86ca-f68ddf5d519e.PNG)
