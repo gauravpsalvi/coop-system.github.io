@@ -7,7 +7,7 @@ The name of database is coopsystem
 ```
 Softwares needed to run the system:-
 
-IDE- Visual Studio Code - React Code, IntelliJ - SpringBoot Code
+IDE - Visual Studio Code - React Code, IntelliJ - SpringBoot Code
 Softwares - React, Node, MySQL, Xampp
 
 ```
@@ -27,8 +27,12 @@ Step 3: Setup your Database and it should look as follows:
 Step 4: Getting started with 'frontend' folder
 NOTE: there is a node_modules folder inside the frontend folder, to install node you first need to have node downloaded on your PC and then you have start visual studio code
 and use the terminal inside visual studio to use the following command 
+
+```
 -npm i
 -npm i axios, cors, react, react-dom, react-router-dom, react-scripts, react-validation, validator, web-vitals
+
+```
 
 Follow the following steps to get an idea about how it works
 
@@ -43,4 +47,3 @@ Step 5: Refer to package.json file inside the project and install all the necess
 Step 6: Refer to same process of installing node_module in your coop folder
 
 Step 7: After node_modules have been installed in coop and frontend folder, you are required to start your IntelliJ and start SpringBoot Application by clicking on the run button. You also need to concurrently start your frontend application by using the terminal and type the command "npm start". It will automatically start your frontend in the browser.
-
